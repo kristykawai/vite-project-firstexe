@@ -11,6 +11,12 @@ npm run dev
 
 open http://localhost:5173/
 
+## How to deploy
+```zsh
+npm npm run build
+npm npm run deploy
+```
+
 ### Disclaimer:
 ChatGPT and Gemini were used to assist in improving and optimizing the site styling and layout. Themed in Catppuccin [Palette](https://catppuccin.com/palette/).
 
