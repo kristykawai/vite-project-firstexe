@@ -16,3 +16,4 @@ ChatGPT was used to assist in improving and optimizing the site styling and layo
 
 ### Copyright:
 Bear emoji designed by pawpawchan © 2026
+[Shop](https://store.line.me/emojishop/product/6a278136d868932001df0522/en)
