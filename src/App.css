@@ -1,0 +1,72 @@
+/* Page layout */
+.page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Header */
+.header {
+  text-align: center;
+  font-size: 14px;
+  opacity: 0.8;
+  padding: 20px 0;
+}
+
+/* Center content */
+#center {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Bear container */
+.bear-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Bear image */
+.bear {
+  display: block;
+  cursor: pointer;
+  transition: transform 0.25s ease, filter 0.25s ease;
+  will-change: transform;
+}
+
+.bear:hover {
+  transform: scale(1.15);
+  filter: drop-shadow(0 6px 12px rgba(0, 0, 0, 0.15));
+}
+
+/* Button */
+.counter {
+  font-size: 16px;
+  padding: 6px 12px;
+  border-radius: 6px;
+  border: 2px solid transparent;
+  background: var(--accent-bg);
+  color: var(--accent);
+  transition: border-color 0.2s ease;
+}
+
+.counter:hover {
+  border-color: var(--accent-border);
+}
+
+.counter:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 16px;
+  opacity: 0.7;
+  font-size: 14px;
+}
