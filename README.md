@@ -1,6 +1,6 @@
-A simple React practice project built with Vite and React.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-kristykawai.github.io-8839ef?style=flat&logo=github)](https://kristykawai.github.io/vite-project-firstexe/)
 
-![Preview](./src/assets/preview_site.png)
+A simple React practice project built with Vite and React.
 
 ## How to Run the Project
 In the project directory, open a terminal and run:
@@ -12,7 +12,7 @@ npm run dev
 open http://localhost:5173/
 
 ### Disclaimer:
-ChatGPT was used to assist in improving and optimizing the site styling and layout.
+ChatGPT and Gemini were used to assist in improving and optimizing the site styling and layout. Themed in Catppuccin [Palette](https://catppuccin.com/palette/).
 
 ### Copyright:
 Bear emoji designed by pawpawchan © 2026
