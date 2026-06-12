@@ -13,8 +13,8 @@ open http://localhost:5173/
 
 ## How to deploy
 ```zsh
-npm npm run build
-npm npm run deploy
+npm run build
+npm run deploy
 ```
 
 ### Disclaimer:
